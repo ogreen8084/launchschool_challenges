@@ -1,3 +1,5 @@
+#robot simulator 
+
 class Robot
   attr_accessor :bearing, :coordinates
   def initialize
